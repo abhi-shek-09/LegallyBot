@@ -3,3 +3,4 @@ env/
 chromedriver.exe
 LICENSE.chromedriver
 .env
+client_secret.json
